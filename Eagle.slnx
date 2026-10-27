@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="Eagle.Backend/Eagle.Backend.csproj" />
+  <Project Path="Eagle.Api/Eagle.Api.csproj" Id="8a9d5790-d343-43c9-9cbe-aeae7dd0ea4f" />
   <Project Path="Eagle.Web/Eagle.Web.csproj" />
 </Solution>
