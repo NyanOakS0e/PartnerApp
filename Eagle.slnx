@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Eagle.Backend/Eagle.Backend.csproj" />
+  <Project Path="Eagle.Web/Eagle.Web.csproj" />
+</Solution>
